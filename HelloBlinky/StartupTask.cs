@@ -12,7 +12,7 @@ namespace HelloBlinky
         {
             int LED_PIN = 35;
             var gpio = GpioController.GetDefault();
-
+             
             GpioPin pin = gpio.OpenPin(LED_PIN);
             pin.SetDriveMode(GpioPinDriveMode.Output);
 
