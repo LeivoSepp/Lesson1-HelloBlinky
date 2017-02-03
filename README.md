@@ -5,29 +5,28 @@ HelloBlinky is one of the shortest and easily understandable program which illus
 
 In the following example we are using Raspberry PI with Windows 10 IoT Core.
 
-http://internetofthing.io/post/hello-blinky-first-lesson-in-raspberry-pi
+https://github.com/LeivoSepp/Lesson1-HelloBlinky
 
 # What is GPIO?
 
-GPIO stands for general-purpose input/output and it is a generic pin on an Raspberry/Arduino board. GPIO pins can be configured to be input or output.
+GPIO stands for general-purpose input/output and it is a generic pin on a Raspberry/Arduino board. Each pin can be configured to be input or output.
 
 # Pin is configured as an input
 
-use it for buttons, measuring temperature, measuring light,  measuring distance 
+Use it for buttons, measuring temperature, measuring light,  measuring distance 
 
 # Pin is configured as an output
 
-use it for led-s, motors, relay’s, lamps
+Use it for LEDs, motors, relays, lamps
 
 # Pin identification number
 
-Each pin has its own personal number. This number is used to communicate with the pin. The correct pin number which used to communicate is in the orange background. Do not try to use those numbers with grey background!
+Each pin has its own personal number. This number is used to communicate with the pin. The pin number to use to communicate has an orange background. Do not try to use the numbers with grey backgrounds! It wont work and you will get an error.
 
 <img src="http://internetofthing.io/posts/files/9f2da784-623e-4753-b521-59ea81b6f2c3.png" />
 
-Raspberry PI has two special pin’s, these are onboard green and red led. 
-Green led pin number is 35 
-Red led pin number is 47.
+Raspberry PI has two special pins which are to control the green and red LED integrated on the board. 
+The green LED’s pin number is 35 and the red’s pin number is 47.
 
 # Windows 10
 
@@ -39,7 +38,7 @@ To start new Raspberry project, use the Visual Studio template “Background App
 
 <img src="http://internetofthing.io/posts/files/acc2be75-7380-42a2-bce4-164157b551a5.png" />
 
-If you do not have this project template, then open menu Visual Studio –> Tools –> Extensions and Updates. Click online, search string “iot” and install “Windows IoT Core Project Templates for VS”.
+If you do not have this project template, then open menu Visual Studio –> Tools –> Extensions and Updates. From there, click online, search for the string “iot” and install “Windows IoT Core Project Templates for VS”.
 
 <img src="http://internetofthing.io/posts/files/a65a0012-adad-43b7-8bd5-c363cd40d322.png" />
 
