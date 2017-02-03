@@ -22,9 +22,8 @@ use it for led-s, motors, relay’s, lamps
 # Pin identification number
 
 Each pin has its own personal number. This number is used to communicate with the pin. The correct pin number which used to communicate is in the orange background. Do not try to use those numbers with grey background!
-http://internetofthing.io/posts/files/9f2da784-623e-4753-b521-59ea81b6f2c3.png
 
-# Raspberry PI pinout
+![alt tag](http://internetofthing.io/posts/files/9f2da784-623e-4753-b521-59ea81b6f2c3.png)
 
 Raspberry PI has two special pin’s, these are onboard green and red led. Green led pin number is 35 while red led pin number is 47.
 
