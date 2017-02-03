@@ -25,7 +25,9 @@ Each pin has its own personal number. This number is used to communicate with th
 
 <img src="http://internetofthing.io/posts/files/9f2da784-623e-4753-b521-59ea81b6f2c3.png" />
 
-Raspberry PI has two special pin’s, these are onboard green and red led. Green led pin number is 35 while red led pin number is 47.
+Raspberry PI has two special pin’s, these are onboard green and red led. 
+Green led pin number is 35 
+Red led pin number is 47.
 
 # Windows 10
 
@@ -35,13 +37,12 @@ To set up Windows 10 IoT Core to your Raspberry, please follow the instructions 
 
 To start new Raspberry project, use the Visual Studio template “Background Application (IoT)”.
 
-# Visual Studio Background Application IoT
+<img src="http://internetofthing.io/posts/files/acc2be75-7380-42a2-bce4-164157b551a5.png" />
 
 If you do not have this project template, then open menu Visual Studio –> Tools –> Extensions and Updates. Click online, search string “iot” and install “Windows IoT Core Project Templates for VS”.
 
-# Visual Studio Tools Extensions and Updates
-
+<img src="http://internetofthing.io/posts/files/a65a0012-adad-43b7-8bd5-c363cd40d322.png" />
 
 # Blinky code and explanation.
 
-Blinky code and explanation
+<img src="http://internetofthing.io/posts/files/2cfbea38-ea7b-4449-906f-26f92f7e558d.png" />
