@@ -2,8 +2,6 @@
 using Windows.Devices.Gpio;
 using System.Threading.Tasks;
 
-// The Background Application template is documented at http://go.microsoft.com/fwlink/?LinkID=533884&clcid=0x409
-
 namespace HelloBlinky
 {
     public sealed class StartupTask : IBackgroundTask
