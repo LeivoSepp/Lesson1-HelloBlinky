@@ -29,6 +29,8 @@ Raspberry PI has two special pins which are to control the green and red LED int
 
 The green LED’s pin number is 35 and the red’s pin number is 47.
 
+![image](https://cloud.githubusercontent.com/assets/13704023/22621382/13b33e60-eb2b-11e6-9776-cf6ca9691280.png)
+
 ## Windows 10
 
 To set up Windows 10 IoT Core to your Raspberry, please follow the instructions here: https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/rpi2/sdcard/stable/getstartedstep1 
