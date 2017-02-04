@@ -11,6 +11,8 @@ HelloBlinky is one of the shortest and easily understandable program which illus
 
 **GPIO** stands for general-purpose input/output and it is a generic pin on a Raspberry/Arduino board. Each pin can be configured to be input or output.
 
+![image](https://cloud.githubusercontent.com/assets/13704023/22621382/13b33e60-eb2b-11e6-9776-cf6ca9691280.png)
+
 ## Pin is configured as an input
 
 Use it for buttons, measuring temperature, measuring light,  measuring distance 
@@ -28,8 +30,6 @@ Each pin has its own personal number. This number is used to communicate with th
 Raspberry PI has two special pins which are to control the green and red LED integrated on the board. 
 
 The green LED’s pin number is 35 and the red’s pin number is 47.
-
-![image](https://cloud.githubusercontent.com/assets/13704023/22621382/13b33e60-eb2b-11e6-9776-cf6ca9691280.png)
 
 ## Windows 10
 
