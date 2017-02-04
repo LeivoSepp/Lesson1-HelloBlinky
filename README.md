@@ -3,11 +3,9 @@ Windows 10 IoT Core first lesson to try something simple with Raspberry PI. Just
 
 HelloBlinky is one of the shortest and easily understandable program which illustrates Raspberry PI GPIO programming.
 
-Here is the blog entry: https://github.com/LeivoSepp/Lesson1-HelloBlinky
-
-Lesson #2 https://github.com/LeivoSepp/Lesson2-HelloBlinkyRedGreen
-
-Lesson #3 https://github.com/LeivoSepp/Lesson3-HelloButton
+* Here is the blog entry: https://github.com/LeivoSepp/Lesson1-HelloBlinky
+* Lesson #2 https://github.com/LeivoSepp/Lesson2-HelloBlinkyRedGreen
+* Lesson #3 https://github.com/LeivoSepp/Lesson3-HelloButton
 
 ## What is GPIO?
 
